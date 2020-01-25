@@ -1,0 +1,12 @@
+Two user accounts exist in our program:
+
+Admin
+------
+username: admin
+password: hattpad
+
+
+User
+------
+username: user
+password: password
